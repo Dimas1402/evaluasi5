@@ -1,0 +1,22 @@
+.jumbotron{
+	background: url(http://selfgrowth.info/photos/yellow-HD-galleries/best-yellow-painting-without-text5059.jpg);
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    margin-top: -80px;
+}
+
+.jumbotron h1{
+	color: white;
+	font-size: 25px;
+	font-family: 'Just Another Hand', cursive;
+	font-size: 40px;
+	margin-top: 20%;
+	
+}
+
+.img-thumbnail{
+height: 200px;
+}
+
+
